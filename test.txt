@@ -1,7 +1,8 @@
 First test file 
 second
-three
+third
 four
 five
+digit
 six
 Test the pull request command
