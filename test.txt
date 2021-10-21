@@ -1,5 +1,4 @@
 First test file 
-shakehand
 third
 four
 fifth
